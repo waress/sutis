@@ -2,3 +2,7 @@
 .row {
   max-width: 900px;
 }
+
+.bg-blue {
+  background-color: #17a2b8;
+}
